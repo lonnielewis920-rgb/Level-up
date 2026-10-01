@@ -1,0 +1,67 @@
+{
+    "7951246353": {
+        "unique_device_id": "Google|3f387fed-092b-4c9a-ad9f-971685e099a1",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1080,
+        "screen_height": 1600,
+        "screen_dpi": "300",
+        "memory": 4684,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2567 | 8",
+        "client_ip": "132.72.229.136"
+    },
+    "7953114368": {
+        "unique_device_id": "Google|5f6845c6-1a8a-49be-a29a-169aff69a568",
+        "brand": "OPPO",
+        "model": "CPH2611",
+        "gpu_renderer": "Adreno (TM) 720",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "407",
+        "memory": 5670,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3197 | 9",
+        "client_ip": "188.68.99.28"
+    },
+    "7954112705": {
+        "unique_device_id": "Google|86d60da0-7b71-4ac5-85c8-780bb443ef31",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 1080,
+        "screen_height": 3200,
+        "screen_dpi": "317",
+        "memory": 4010,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2899 | 11",
+        "client_ip": "125.233.159.70"
+    },
+    "bb1fd3d853dfde1210e909c76ae96073": {
+        "unique_device_id": "Google|e4d84c3f-c01e-41d6-9203-577213d38b43",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1080,
+        "screen_height": 3200,
+        "screen_dpi": "323",
+        "memory": 4865,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2483 | 11",
+        "client_ip": "203.245.92.91"
+    },
+    "19a9ced30ac496602b8aacf299bf1d64": {
+        "unique_device_id": "Google|b6aacf84-b64e-45a8-be0a-e635b3ca788d",
+        "brand": "OPPO",
+        "model": "CPH2611",
+        "gpu_renderer": "Adreno (TM) 720",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1440,
+        "screen_height": 2400,
+        "screen_dpi": "368",
+        "memory": 3122,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3024 | 9",
+        "client_ip": "218.149.244.168"
+    }
+}
